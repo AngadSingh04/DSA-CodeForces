@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    int n,m,a;
+    long long n,m,a;
     cin >> n >> m >> a;
     n = (int)ceil((double)n/a);
     m = (int)ceil((double)m/a);
